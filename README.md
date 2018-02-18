@@ -1,4 +1,4 @@
-**Finding Lane Lines on the Road**
+# Project 1 Report: Finding Lane Lines on the Road
 
 
 ### 1. Pipeline
@@ -63,7 +63,7 @@ for line in left_lines:
   Calculate line segment length L
 Average all m,b across left_lines using weights (L)
  
-# Computer same values for right lines
+# Compute same values for right lines
 
 # Given final m_avg,b_avg for left and right lines, draw on image
  
