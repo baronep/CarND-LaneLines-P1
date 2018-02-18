@@ -82,3 +82,10 @@ Average all m,b across left_lines using weights (L)
 - Using a RANSAC to fit the line from the Hough identified lines, which would have better outlier rejection
 - Using a quadratic/spine model instead of linear to better handle curving roads
 
+### 5. Results
+
+[solidWhiteRight.mp4](test_videos_output/solidWhiteRight.mp4)
+
+[solidYellowLeft.mp4](test_videos_output/solidYellowLeft.mp4)
+
+
